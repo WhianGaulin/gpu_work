@@ -1,0 +1,2 @@
+gpu.cu是gpu版本
+cpu.cpp是cpu版本
